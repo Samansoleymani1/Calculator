@@ -1,2 +1,3 @@
-"# Calculator" 
-"# Calculator" 
+
+
+This is a simple C# calculator project
